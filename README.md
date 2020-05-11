@@ -4,14 +4,13 @@ detects faces and blurs them.
 
 ![Blurred man waving](./vid.gif)
 
+## Options from script
 
 ```
 python main.py
 python main.py -s -o output_name
 ```
 
-
-## Options from script
 
 - "-b" is blur strength. Has to be both odd and positive, as it corresponds
 to kernel sizes for GaussianBlur.
