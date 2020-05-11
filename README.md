@@ -18,5 +18,5 @@ to kernel sizes for GaussianBlur.
 - "-o" is the option for the MOV file name, default is "output"
 
 ## Dependencies
-numpy==1.18.4
-opencv-python==4.2.0.34
+- numpy==1.18.4
+- opencv-python==4.2.0.34
